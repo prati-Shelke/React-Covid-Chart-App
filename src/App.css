@@ -1,0 +1,72 @@
+/* Home page css */
+
+
+
+h1{
+    color:red;
+    text-align: center;
+    margin-top: 40px;
+}
+img{
+    width:55%;
+    height:400px;
+    margin-left:270px;
+    padding-top: 30px;
+    display: block;
+    
+}
+
+.btn{
+    margin-left: 270px;
+    margin-top: 20px;
+}
+/* .container button
+{
+    background:rgb(12, 112, 12);
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid #5f9341;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size:16px;
+            
+} */
+
+/* bar chart css */
+h2{
+    text-align: center;
+    color: red;
+    font-size:30px;
+    margin-top: 30px;
+}
+
+
+.paginationBttns {
+    width: 80%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-left:200px;
+  }
+  
+  .paginationBttns a {
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    border: 1px solid #2b2eff;
+    color: #2b2eff;
+    cursor: pointer;
+  }
+  
+  .paginationBttns a:hover {
+    color: white;
+    background-color: #2b2eff;
+  }
+  
+  .paginationActive a {
+    color: white;
+    background-color: #2b2eff;
+  } 
+  
+  
